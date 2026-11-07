@@ -34,6 +34,7 @@
 [![GitHub license](https://img.shields.io/github/license/saeloun/miru-web)](https://github.com/saeloun/miru-web/blob/production/LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/GetMiru?style=social)](https://x.com/getmiru)
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/saeloun/miru-web/tree/production)
+<a href="https://repocloud.io/details/Miru/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="40"></a>
 
 ---
 
